@@ -1,0 +1,14 @@
+.on,
+.off {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.on {
+  box-shadow: rgba(14, 161, 6, 0.91) 0px 10px 10px -10px;
+}
+
+.off {
+  box-shadow: rgba(188, 23, 5, 0.91) 0px 10px 10px -10px;
+}
